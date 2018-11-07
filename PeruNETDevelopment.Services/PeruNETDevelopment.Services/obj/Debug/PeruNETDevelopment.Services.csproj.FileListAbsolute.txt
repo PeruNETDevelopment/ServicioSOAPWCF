@@ -1,0 +1,7 @@
+c:\users\julis\source\repos\PeruNETDevelopment.Services\PeruNETDevelopment.Services\bin\PeruNETDevelopment.Services.dll.config
+c:\users\julis\source\repos\PeruNETDevelopment.Services\PeruNETDevelopment.Services\bin\PeruNETDevelopment.Services.dll
+c:\users\julis\source\repos\PeruNETDevelopment.Services\PeruNETDevelopment.Services\bin\PeruNETDevelopment.Services.pdb
+c:\users\julis\source\repos\PeruNETDevelopment.Services\PeruNETDevelopment.Services\obj\Debug\PeruNETDevelopment.Services.csprojResolveAssemblyReference.cache
+c:\users\julis\source\repos\PeruNETDevelopment.Services\PeruNETDevelopment.Services\obj\Debug\PeruNETDevelopment.Services.csproj.CoreCompileInputs.cache
+c:\users\julis\source\repos\PeruNETDevelopment.Services\PeruNETDevelopment.Services\obj\Debug\PeruNETDevelopment.Services.dll
+c:\users\julis\source\repos\PeruNETDevelopment.Services\PeruNETDevelopment.Services\obj\Debug\PeruNETDevelopment.Services.pdb
